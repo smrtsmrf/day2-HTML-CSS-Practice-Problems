@@ -4,8 +4,8 @@
     width: 100%;
     height: 530px;
     position: relative;
-
-
+    background: url('http://img.timeinc.net/time/photoessays/2008/trees/franklin_trees_01.jpg') no-repeat;
+    background-size: cover;
 }
 
 
